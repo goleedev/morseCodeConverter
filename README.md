@@ -6,4 +6,3 @@ TBH, I didn't want to memorize the rules so I created this to convert the code f
 
 👨🏻‍💻It was built with *HTML, CSS, jQuery*.
 
-![Screen Shot 2020-01-03 at 12.49.16 AM](/Users/golee/Desktop/Screen Shot 2020-01-03 at 12.49.16 AM.png)
