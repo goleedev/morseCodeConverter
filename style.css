@@ -26,22 +26,21 @@ body {
     margin-top: 10px;
     color: black;
     align-content: center;
+    table-layout: fixed;
 }
 
 
 .lead {
-    padding-top: 0px;
+    padding-top: 0;
     font-size: 20px;
     color: gray;
     padding-bottom: 0;
 }
 
 pre {
-
-    padding-top: 20px;
-    background-color: whitesmoke;
-    color: black;
-
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0;
 }
-
 
