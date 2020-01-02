@@ -1,0 +1,47 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Sandoll Hoyoyo, Times New Roman;
+    font-weight: normal;
+    color: whitesmoke;
+}
+
+body {
+    margin: 20px;
+    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    height: 100vh;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+
+.form-group {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, .35);
+}
+
+
+.form-control {
+    margin-top: 10px;
+    color: black;
+    align-content: center;
+}
+
+
+.lead {
+    padding-top: 0px;
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 0;
+}
+
+pre {
+
+    padding-top: 20px;
+    background-color: whitesmoke;
+    color: black;
+
+}
+
+
